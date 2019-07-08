@@ -9,7 +9,7 @@ Build a simple Form -> Response using React Server Side Rendering.
 
 ### The Form
 
-![alt text](https://raw.githubusercontent.com/mobrandtech/challenges-react-server-side-rendering/form.png "")
+![alt text](https://raw.githubusercontent.com/mobrandtech/challenges-react-server-side-rendering/master/form.png "")
 
 - It should have the fields:
   - URL - a free text input.
@@ -21,7 +21,7 @@ Build a simple Form -> Response using React Server Side Rendering.
 
 ### The Result
 
-![alt text](https://raw.githubusercontent.com/mobrandtech/challenges-react-server-side-rendering/result.png "")
+![alt text](https://raw.githubusercontent.com/mobrandtech/challenges-react-server-side-rendering/master/result.png "")
 
 - It should render a page based with a fixed or random result
 - It should get the result on backend asynchronously
