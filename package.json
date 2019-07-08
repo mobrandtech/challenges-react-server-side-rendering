@@ -1,0 +1,26 @@
+{
+  "name": "challenges-react-server-side-rendering",
+  "version": "1.0.0",
+  "description": "A Frontend Challenge where you use React Server Side Rendering",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobrandtech/challenges-react-server-side-rendering.git"
+  },
+  "keywords": [
+    "challenge",
+    "react",
+    "server",
+    "side",
+    "rendering"
+  ],
+  "author": "Mobrand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mobrandtech/challenges-react-server-side-rendering/issues"
+  },
+  "homepage": "https://github.com/mobrandtech/challenges-react-server-side-rendering#readme"
+}
